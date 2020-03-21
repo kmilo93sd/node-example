@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "server/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmilo93sd/node-example.git"
+  },
+  "author": "Camilo Alaniz <kmilo93sd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmilo93sd/node-example/issues"
+  },
+  "homepage": "https://github.com/kmilo93sd/node-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
